@@ -6,9 +6,9 @@
 
 ## Hamilton Ventura Rodrigues
 
-> Analista de Sistemas   - UNICESUMAR
-> Técnico em informática - IFRO
-> Mestrando em Ciências da COmputação - UNIOESTE
+> Analista de Sistemas   - UNICESUMAR<br>
+> Técnico em informática - IFRO<br>
+> Mestrando em Ciências da COmputação - UNIOESTE<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltonventura&layout=compact)
 
