@@ -16,7 +16,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks de Estudo
-
+> Atualmente estou tendo o privilêgio de estudar esse framework e aplica-lo em projetos reais, utilizando
+> também boa parte dos recursos disponíveis.
+> 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 
 ### Banco de dados
