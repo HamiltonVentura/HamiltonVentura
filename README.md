@@ -8,7 +8,7 @@
 
 > Analista de Sistemas   - UNICESUMAR<br>
 > Técnico em informática - IFRO<br>
-> Mestrando em Ciências da COmputação - UNIOESTE<br>
+> Mestrando em Ciências da Computação - UNIOESTE<br>
 
 
 
