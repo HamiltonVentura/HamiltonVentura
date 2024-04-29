@@ -6,10 +6,14 @@
 
 ## Hamilton Ventura Rodrigues
 
+> Analista de Sistemas   - UNICESUMAR
+> Técnico em informática - IFRO
+> Mestrando em Ciências da COmputação - UNIOESTE
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltonventura&layout=compact)
 
 ### Skills (Estudo)
-> A Base para qualquer Front-End é o Domínio das seguintes Skills, Meus estudos são contínuos e nos ultimos meses tenho focado
+> A Base para qualquer Front-End é o Domínio do html, css e javascript, Meus estudos são contínuos e nos ultimos meses tenho focado
 > em desenvolver pequenos projetos para melhorar minhas habilidades.
 
 ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -20,11 +24,11 @@
 ### Frameworks de Estudo
 > Atualmente estou tendo o privilêgio de estudar esse framework e aplica-lo em projetos reais, utilizando
 > também boa parte dos recursos disponíveis.
-> 
+
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 
 ### Banco de dados
-> tive o privilégio de trabalhar em empresas que puderam me ajudar a compreender melhor sobre banco de dados,
+> Tive o privilégio de trabalhar em empresas que puderam me ajudar a compreender melhor sobre banco de dados,
 > atualmente não tenho trabalhado diretamente com Banco de dados, mas são conhecimentos que possuo noção pois ja trabalhei
 > utilizando os recursos SQL.
 [![Postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
