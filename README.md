@@ -5,16 +5,7 @@
 
 
 Hamilton Ventura Rodrigues
-
-
-Meus hobbies:
-Entre as coisas que gosto de fazer estão o de  desenhar/vetorizar | Música | Leitura. Pode acompanhar alguns de meus trabalhos e passa-tempos nos links asseguir
-
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/HamiltonVR)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamilton.venttura)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hamiltonventtura.ventura)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltonventura&layout=compact)
 Entre as habilidades que tenho focado mais são:
 
 ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -24,7 +15,6 @@ Entre as habilidades que tenho focado mais são:
 
 Frameworks de Estudo
 
-
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 
 Banco de dados
@@ -32,8 +22,12 @@ Banco de dados
 [![Postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![Mysqk](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 
+Meus hobbies:
+Entre as coisas que gosto de fazer estão o de  desenhar/vetorizar | Música | Leitura. Pode acompanhar alguns de meus trabalhos e passa-tempos nos links asseguir
 
-
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/HamiltonVR)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamilton.venttura)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hamiltonventtura.ventura)
 
 Ferramentas de Design -  Domínio/Estudo
 
@@ -49,4 +43,4 @@ Ferramentas de Design -  Domínio/Estudo
 
 ![Hamilton GitHub stats](https://github-readme-stats.vercel.app/api?username=HamiltonVentura&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltonventura&layout=compact)
+
