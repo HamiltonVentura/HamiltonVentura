@@ -10,6 +10,8 @@
 > Técnico em informática - IFRO<br>
 > Mestrando em Ciências da COmputação - UNIOESTE<br>
 
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltonventura&layout=compact)
 
 ### Skills (Estudo)
@@ -20,6 +22,7 @@
 ![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ### Frameworks de Estudo
 > Atualmente estou tendo o privilêgio de estudar esse framework e aplica-lo em projetos reais, utilizando
