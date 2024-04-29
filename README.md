@@ -33,7 +33,7 @@ Banco de dados
 [![Mysqk](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 
-[![Blog](    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamiltonventtura@gmail.com)
+
 
 Ferramentas de Design -  Domínio/Estudo
 
