@@ -48,7 +48,7 @@
 
 ### Ferramentas de Design -  Domínio/Estudo
 
-> Entre as habilidades que possuo estão a manipulção de imagens e vídeos, Explorando
+> Entre as habilidades que possuo estão a manipulação de imagens e vídeos, Explorando
 > essas ferramentas pude trabalhar e desenvolver uma visão mais criativa, em ambiente Linux e WIndows.
 
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
@@ -63,4 +63,7 @@
 
 ![Hamilton GitHub stats](https://github-readme-stats.vercel.app/api?username=HamiltonVentura&show_icons=true)
 
-
+<div>
+  Linguagens de serialização de dados.
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F31053%2Fxml&psig=AOvVaw1y7vvS5bVm2c_Y8MaZyya_&ust=1714533064808000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDJ0sT76IUDFQAAAAAdAAAAABAE">
+</div>
