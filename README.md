@@ -29,7 +29,7 @@
 > também boa parte dos recursos disponíveis.
 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
-![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)(https://github.com/HamiltonVentura/VUE)
+[![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://github.com/HamiltonVentura/VUE)
 
 ### Banco de dados
 > Tive o privilégio de trabalhar em empresas que puderam me ajudar a compreender melhor sobre banco de dados,
