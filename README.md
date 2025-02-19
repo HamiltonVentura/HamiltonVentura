@@ -7,7 +7,7 @@
 ## Hamilton Ventura Rodrigues
 
 > Analista de Sistemas   - UNICESUMAR<br>
-> Técnico em informática - IFRO<br>
+
 
 
 
