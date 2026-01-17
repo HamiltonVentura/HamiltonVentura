@@ -6,7 +6,7 @@
 
 ## Hamilton Ventura Rodrigues
 
-> Analista de Sistemas   - UNICESUMAR<br>
+> Profissional de TI em Transição para Educação | Criatividade, Comunicação e Sistemas de Aprendizagem
 
 
 
